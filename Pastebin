@@ -1,5 +1,9 @@
 
-CIFS on Kiloview Encoder
+CIFS on Kiloview Encoder:
+ID: Some name
+Name: Some Name
+NAS Type: CIFS
+Hostname: IP or DNS
+Volume: SHARE/FOLDER or SHARE/
+Mount Options: username=myuser,password=mypassword
 
-Mount Options:
-username=myuser,password=mypassword
